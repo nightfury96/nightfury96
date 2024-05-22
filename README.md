@@ -7,4 +7,4 @@
 - 📫 How to reach me: fmirdamadi111@gmail.com
 - ⚡ Fun fact: Cooking and coding are my two loves—ask me about my latest project or recipe!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raanaYavari&theme=cobalt&show_icons=true)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nightfury96&theme=cobalt&show_icons=true)]()
